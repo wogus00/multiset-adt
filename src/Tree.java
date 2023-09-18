@@ -3,7 +3,7 @@ public class Tree {
         int x = 0;
     }
 
-    public static void NewFunction(String[] args) {
+    public static void editFunction(String[] args) {
         int y = 0;
     }
 }
